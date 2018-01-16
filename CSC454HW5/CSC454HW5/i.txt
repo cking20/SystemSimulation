@@ -1,0 +1,4 @@
+quarter, quarter, quarter, dime, dime, quarter
+wait
+cancel
+cancel
